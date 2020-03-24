@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HH_ckeditor"
+  id="myeclipse.1324619568453"
+  context-root="/HH_ckeditor"
+  j2ee-spec="5.0"
+  archive="HH_ckeditor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
